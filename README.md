@@ -1,9 +1,10 @@
 # blog-relay
 
-技術ブログ「Raspberry Pi Pico + ENC28J60 を使った LAN リレーモジュール開発」の関連ソースをまとめるリポジトリです。
+技術ブログ「LAN対応24ch入力×8chリレー制御装置を作る | アイゼック株式会社」の関連ソースをまとめるリポジトリです。
 
 関連記事:
 
+- 第1回: https://isecj.jp/blog/raspberry-pi-pico-lan-relay-01/
 - 第2回: https://isecj.jp/blog/raspberry-pi-pico-lan-relay-02/
 
 ## このリポジトリに含まれるもの
